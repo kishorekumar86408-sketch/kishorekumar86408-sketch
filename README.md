@@ -1,5 +1,3 @@
-# Kishore-Kumar-readme.md
-
 # Hi 👋, I'm Kishore Kumar T
 
 🎓 Computer Science Engineering Student  
